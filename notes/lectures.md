@@ -3074,6 +3074,9 @@ obj2.x();
 <button onclick="alert(this)">Click Me</button>
 <!-- [object HTMLButtonElement] Button element -->
 ```
+<hr>
+##`Differences between promises and callbacks`
+![image](https://github.com/user-attachments/assets/b7af3a85-0675-4731-98f3-60a2b9ffd83e)
 
 <hr>
 
